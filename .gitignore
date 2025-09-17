@@ -1,3 +1,6 @@
 .vscode/
 virtualEnv1/
 virtualEnv2/
+data/
+img/
+.conda/

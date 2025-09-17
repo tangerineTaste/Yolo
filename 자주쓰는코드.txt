@@ -1,0 +1,6 @@
+[이미지를 새로운 창에서 출력하는 코드]
+cv.imshow('opencv',opencv_logo_img[:,:,3])
+cv.waitKey()
+cv.destroyAllWindows()
+
+[...]
